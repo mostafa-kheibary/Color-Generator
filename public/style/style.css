@@ -42,3 +42,13 @@ a{
     font-size:35px;
     font-weight: 200;
 }
+.center #butt{
+    margin-top: 25px;
+    text-align: center;
+    width: 200px;
+    padding: 10px;
+    background-color: transparent;
+    border: 1px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+}
